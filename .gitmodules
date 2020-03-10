@@ -1,0 +1,3 @@
+[submodule "flutter/repo"]
+	path = flutter/repo
+	url = https://github.com/accenturehungary/mob-dev-flutter.git
