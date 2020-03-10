@@ -4,3 +4,6 @@
 [submodule "react-native/repo"]
 	path = react-native/repo
 	url = https://github.com/accenturehungary/mob-dev-rn.git
+[submodule "pwa/repo"]
+	path = pwa/repo
+	url = https://github.com/accenturehungary/mob-dev-pwa.git
