@@ -7,3 +7,6 @@
 [submodule "pwa/repo"]
 	path = pwa/repo
 	url = https://github.com/accenturehungary/mob-dev-pwa.git
+[submodule "xamarin/repo"]
+	path = xamarin/repo
+	url = https://github.com/accenturehungary/mob-dev-xamarin.git
