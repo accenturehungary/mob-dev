@@ -1,3 +1,6 @@
 [submodule "flutter/repo"]
 	path = flutter/repo
 	url = https://github.com/accenturehungary/mob-dev-flutter.git
+[submodule "react-native/repo"]
+	path = react-native/repo
+	url = https://github.com/accenturehungary/mob-dev-rn.git
